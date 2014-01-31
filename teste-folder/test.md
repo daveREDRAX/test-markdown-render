@@ -2,4 +2,4 @@ This is a test
 
 # OOK?
 
-![image](image.png)
+![image](../image.png)
